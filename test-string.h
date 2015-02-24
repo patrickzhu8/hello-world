@@ -7,6 +7,7 @@
 #include <iterator>
 using namespace std;
 
+//test
 class pat_string:public string{
 	public:
 		int GetInt(string str){
